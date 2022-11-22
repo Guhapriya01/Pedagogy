@@ -1,5 +1,5 @@
 # Pedagogy
-<b> Your Perfect Learning Partner <b>
+Your Perfect Learning Partner
 
 
 ![image](https://user-images.githubusercontent.com/76595809/203378944-1860966c-4bc0-4426-96c5-f0ae23511eb8.png)
