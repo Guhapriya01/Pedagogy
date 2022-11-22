@@ -2,6 +2,7 @@
 Your Perfect Learning Partner
 
    PEDAGOGY was designed to be placed on an educational website that offers courses, conducts one-to-one expert sessions and has technical questions to practice. Using this bot, 
+   
    💫 Users can schedule an appointment with the expert, reschedule and cancel it if needed.
    
    💫 They can access practice questions on topics like SQL and register for their favourite courses through this bot. 
